@@ -44,3 +44,10 @@ buildNumber.properties
 .DS_Store
 **/.DS_Store
 FpAnalysis/.idea/
+
+# Android APK analysis exclusions
+apks/
+decoded_apks/
+*.apk
+venv/
+results/reachability/

@@ -1,0 +1,26 @@
+[
+  {
+    "app": "com.dashlane_6.2510.0-armeabi-v7a-625102000_minAPI29(armeabi-v7a)(nodpi)_apkmirror.com",
+    "has_fp_permission": true
+  },
+  {
+    "app": "com.standardnotes_3.201.27-3005216_minAPI28(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com",
+    "has_fp_permission": true
+  },
+  {
+    "app": "com.kunzisoft.keepass.libre_44100",
+    "has_fp_permission": true
+  },
+  {
+    "app": "com.x8bit.bitwarden_2026.4.1-21464_minAPI29(arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64)(nodpi)_apkmirror.com",
+    "has_fp_permission": true
+  },
+  {
+    "app": "com.beemdevelopment.aegis_81",
+    "has_fp_permission": true
+  },
+  {
+    "app": "dev.pranav.applock_223",
+    "has_fp_permission": true
+  }
+]

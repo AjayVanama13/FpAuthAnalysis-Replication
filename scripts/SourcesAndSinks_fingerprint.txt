@@ -1,0 +1,3 @@
+<android.hardware.fingerprint.FingerprintManager: android.hardware.fingerprint.FingerprintManager$AuthenticationResult authenticate(android.hardware.fingerprint.FingerprintManager$CryptoObject,android.os.CancellationSignal,int,android.hardware.fingerprint.FingerprintManager$AuthenticationCallback,android.os.Handler)> -> _SOURCE_
+<android.hardware.biometrics.BiometricPrompt: void authenticate(android.os.CancellationSignal,java.util.concurrent.Executor,android.hardware.biometrics.BiometricPrompt$AuthenticationCallback)> -> _SOURCE_
+<androidx.biometric.BiometricPrompt: void authenticate(androidx.biometric.BiometricPrompt$PromptInfo)> -> _SOURCE_
